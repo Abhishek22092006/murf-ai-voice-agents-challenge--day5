@@ -1,0 +1,53 @@
+[
+    {
+        "name": null,
+        "company": null,
+        "email": null,
+        "role": null,
+        "use_case": null,
+        "team_size": null,
+        "timeline": null,
+        "timestamp": "2025-11-26T00:43:00.301114",
+        "lead_id": "lead-1764097980"
+    },
+    {
+        "name": "Tushar",
+        "company": "Money craft",
+        "email": null,
+        "role": "Owner",
+        "use_case": null,
+        "team_size": "5",
+        "timeline": null,
+        "timestamp": "2025-11-26T00:58:09.438192"
+    },
+    {
+        "name": "Tushar",
+        "company": "Money craft",
+        "email": "contact@moneycraft.com",
+        "role": "Online Store Owner",
+        "use_case": "Inventory tracking and billing",
+        "team_size": null,
+        "timeline": "Soon",
+        "timestamp": "2025-11-26T11:54:10.645046"
+    },
+    {
+        "name": "Tushar",
+        "company": "Mega Craft",
+        "email": "kushar@directmanmegacraft.com",
+        "role": null,
+        "use_case": "inventory tracking plus billing system",
+        "team_size": "small business",
+        "timeline": "Soon",
+        "timestamp": "2025-11-26T12:25:36.698052"
+    },
+    {
+        "name": "Tushar",
+        "company": "Money Craft",
+        "email": "tushar@directmoneycraft.com",
+        "role": "Online Store Owner",
+        "use_case": "inventory tracking or billing system",
+        "team_size": "3",
+        "timeline": "Soon",
+        "timestamp": "2025-11-26T13:18:11.679107"
+    }
+]

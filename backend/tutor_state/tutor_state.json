@@ -1,0 +1,27 @@
+{
+  "last_mode": "teach_back",
+  "last_concept": "variables",
+  "mastery": {
+    "variables": {
+      "times_explained": 5,
+      "times_quizzed": 8,
+      "times_taught_back": 3,
+      "last_score": 36,
+      "avg_score": 49.9
+    },
+    "classes": {
+      "times_explained": 0,
+      "times_quizzed": 1,
+      "times_taught_back": 2,
+      "last_score": 9,
+      "avg_score": 31.8
+    },
+    "conditions": {
+      "times_explained": 0,
+      "times_quizzed": 1,
+      "times_taught_back": 3,
+      "last_score": 32,
+      "avg_score": 45.2
+    }
+  }
+}
